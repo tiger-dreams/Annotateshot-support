@@ -1,8 +1,10 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 비공개 지원 · Private support
-    url: https://annotateshot.com/mac/support
-    about: 개인정보가 필요한 문의는 지원 웹사이트를 이용하세요. Use this for requests involving private information.
-  - name: App Store 환불 · App Store refunds
-    url: https://reportaproblem.apple.com/
-    about: App Store 환불은 Apple에 요청하세요. Request App Store refunds through Apple.
+  -
+    name: "Private support · 비공개 지원 · 非公開のお問い合わせ"
+    url: "https://annotateshot.com/mac/support"
+    about: "Requests involving private information / 개인정보가 필요한 문의 / 個人情報を含むお問い合わせ"
+  -
+    name: "App Store refunds · 환불 · 返金"
+    url: "https://reportaproblem.apple.com/"
+    about: "Request refunds through Apple / Apple에 환불 요청 / Appleへ返金を申請"

@@ -1,0 +1,371 @@
+{
+  "en": {
+    "name": "English",
+    "title": "Annotateshot Support",
+    "tagline": "Capture. Annotate. Get help.",
+    "intro": "A place for questions, bug reports, and ideas for Annotateshot on Mac.",
+    "home": "Support",
+    "guide": "User guide",
+    "faq": "FAQ",
+    "privacy": "Privacy",
+    "store": "Get Annotateshot",
+    "repo": "GitHub repository",
+    "issues": "Browse existing issues",
+    "skip": "Skip to content",
+    "language": "Language",
+    "help_title": "How can we help?",
+    "bug": "Report a bug",
+    "bug_desc": "Tell us what happened and how to reproduce it.",
+    "feature": "Suggest a feature",
+    "feature_desc": "Share a task you would like to make easier.",
+    "question": "Ask a question",
+    "question_desc": "Get help with a tool or workflow.",
+    "public_title": "Before you post",
+    "public_text": "GitHub issues, comments, and attachments are public. Redact names, email addresses, private documents, and payment details. A GitHub account is required to post an issue.",
+    "private": "Private support",
+    "refund": "Request an App Store refund",
+    "private_text": "Use the support website for requests involving private information. Request App Store refunds through Apple.",
+    "about_title": "Made for clearer screenshots.",
+    "about_text": "Capture your screen, add shapes or text, highlight a detail, and save or copy the result. Annotateshot requires macOS 14 or later.",
+    "faq_title": "Common questions",
+    "faqs": [
+      [
+        "Why can’t I capture my screen?",
+        "Check Annotateshot’s screen recording permission in System Settings → Privacy & Security. Quit and relaunch the app after changing permission. The exact setting name varies by macOS version."
+      ],
+      [
+        "What should I include in a bug report?",
+        "Include the app version and build number, macOS version, steps to reproduce, expected behavior, and what actually happened. A redacted screenshot or short recording can help."
+      ],
+      [
+        "Where do I request a refund?",
+        "App Store payments and refunds are handled by Apple. Use the refund link below. Do not post receipts in public issues."
+      ],
+      [
+        "Does a feature request promise a release date?",
+        "No. Requests help us understand what people need. A “planned” label is not a promise of a release date."
+      ]
+    ],
+    "guide_intro": "From your first capture to a useful bug report.",
+    "steps": [
+      [
+        "Install and launch",
+        "Install Annotateshot from the Mac App Store and launch it."
+      ],
+      [
+        "Capture or open an image",
+        "Use the Annotateshot icon in the macOS menu bar to capture a screenshot or open an image."
+      ],
+      [
+        "Add annotations",
+        "Choose an editor tool, such as shapes, text, highlighting, or mosaic. Available options may vary by app version."
+      ],
+      [
+        "Save or copy",
+        "Save the edited image or copy it for sharing. Check that sensitive information is hidden before sharing."
+      ]
+    ],
+    "permission_title": "Screen recording permission",
+    "permission_text": "In System Settings → Privacy & Security, allow Annotateshot to record the screen. Quit and relaunch after changing the permission. If capture still fails, report a bug with your macOS and app versions.",
+    "report_title": "Help us reproduce the problem",
+    "report_items": [
+      "App version and build number",
+      "macOS version",
+      "The steps that trigger the problem",
+      "Expected result and actual result",
+      "A screenshot or recording with private information redacted"
+    ],
+    "privacy_intro": "Choose the right place for your information.",
+    "privacy_sections": [
+      [
+        "Public reports",
+        "Everything you put in a GitHub issue, comment, or attachment can be viewed by other people. Do not post credentials, receipts, private documents, or unredacted screenshots."
+      ],
+      [
+        "Private requests",
+        "Use the existing support website for requests involving private information. App Store refunds are requested directly through Apple."
+      ],
+      [
+        "App privacy policy",
+        "The app’s privacy policy is published on the Annotateshot website. Follow the link below for the current policy."
+      ],
+      [
+        "This support site",
+        "These pages do not include analytics scripts, advertising, or embedded tracking tools. GitHub hosts the pages and issue service; its own privacy policy applies to those services."
+      ]
+    ],
+    "policy": "Read the app privacy policy",
+    "github_privacy": "GitHub privacy statement",
+    "footer": "Support documentation and feedback. App source code is not included.",
+    "readme_about": "This is the public support space for Annotateshot. Report bugs, suggest features, or ask how to use the app.",
+    "readme_heading": "Get help",
+    "readme_docs": "Documentation",
+    "readme_scope": "About this repository",
+    "readme_scope_text": "This repository contains support documentation and user feedback, not the app source code. Feature requests do not guarantee implementation or a release date.",
+    "contributing": [
+      "Search existing issues before opening a new one.",
+      "Keep each issue focused on one problem or suggestion.",
+      "Describe reproduction steps and expected behavior clearly.",
+      "Redact private information before attaching files.",
+      "Be respectful when discussing feedback."
+    ],
+    "form_version": "App version and build number",
+    "form_macos": "macOS version",
+    "form_steps": "Steps to reproduce",
+    "form_expected": "Expected result",
+    "form_actual": "Actual result",
+    "form_extra": "Additional details (redacted screenshots, recordings, or error messages)",
+    "form_problem": "What problem would you like to solve?",
+    "form_suggestion": "Suggested improvement",
+    "form_examples": "Examples or alternatives",
+    "form_question": "Your question",
+    "form_context": "Additional context",
+    "form_notice": "This issue and its attachments are public. Redact private information. Do not post receipts or credentials."
+  },
+  "ko": {
+    "name": "한국어",
+    "title": "Annotateshot 지원",
+    "tagline": "캡처하고, 표시하고, 물어보세요.",
+    "intro": "Mac용 Annotateshot의 사용 질문, 버그 신고, 기능 제안을 위한 공간입니다.",
+    "home": "지원 홈",
+    "guide": "사용 안내",
+    "faq": "자주 묻는 질문",
+    "privacy": "개인정보 안내",
+    "store": "Annotateshot 다운로드",
+    "repo": "GitHub 저장소",
+    "issues": "기존 문의 살펴보기",
+    "skip": "본문으로 건너뛰기",
+    "language": "언어",
+    "help_title": "어떤 도움이 필요하신가요?",
+    "bug": "버그 신고",
+    "bug_desc": "발생한 문제와 재현 방법을 알려 주세요.",
+    "feature": "기능 제안",
+    "feature_desc": "더 편리하게 하고 싶은 작업을 알려 주세요.",
+    "question": "사용 질문",
+    "question_desc": "도구나 사용 방법이 궁금할 때 물어보세요.",
+    "public_title": "문의하기 전에",
+    "public_text": "GitHub 이슈, 댓글, 첨부 파일은 공개됩니다. 이름, 이메일, 개인 문서와 결제 정보를 가려 주세요. 이슈를 작성하려면 GitHub 계정이 필요합니다.",
+    "private": "비공개 지원",
+    "refund": "App Store 환불 요청",
+    "private_text": "개인정보가 필요한 문의는 지원 웹사이트를 이용해 주세요. App Store 환불은 Apple에 요청할 수 있습니다.",
+    "about_title": "더 명확하게 전달하는 스크린샷.",
+    "about_text": "화면을 캡처하고 도형이나 텍스트로 표시하거나 중요한 부분을 강조한 뒤 저장·복사하세요. Annotateshot은 macOS 14 이상에서 사용할 수 있습니다.",
+    "faq_title": "자주 묻는 질문",
+    "faqs": [
+      [
+        "화면이 캡처되지 않아요.",
+        "시스템 설정 → 개인정보 보호 및 보안에서 Annotateshot의 화면 기록 권한을 확인해 주세요. 권한을 변경한 뒤 앱을 종료하고 다시 실행하세요. macOS 버전에 따라 설정 이름이 다를 수 있습니다."
+      ],
+      [
+        "버그 신고에는 무엇을 적으면 되나요?",
+        "앱 버전과 빌드 번호, macOS 버전, 재현 단계, 기대한 동작과 실제 동작을 적어 주세요. 개인정보를 가린 스크린샷이나 짧은 영상도 도움이 됩니다."
+      ],
+      [
+        "환불은 어디에서 요청하나요?",
+        "App Store 결제와 환불은 Apple이 처리합니다. 아래 환불 링크를 이용해 주세요. 영수증은 공개 이슈에 올리지 마세요."
+      ],
+      [
+        "기능을 제안하면 출시일이 정해지나요?",
+        "아닙니다. 제안은 사용자의 필요를 파악하는 데 도움이 됩니다. “planned” 라벨이 붙어도 출시일을 약속하는 것은 아닙니다."
+      ]
+    ],
+    "guide_intro": "첫 캡처부터 문제를 전달하는 방법까지.",
+    "steps": [
+      [
+        "설치하고 실행하기",
+        "Mac App Store에서 Annotateshot을 설치하고 실행합니다."
+      ],
+      [
+        "캡처하거나 이미지 열기",
+        "macOS 메뉴 막대의 Annotateshot 아이콘에서 화면을 캡처하거나 이미지를 엽니다."
+      ],
+      [
+        "주석 추가하기",
+        "편집 창에서 도형, 텍스트, 강조, 모자이크 등의 도구를 선택합니다. 앱 버전에 따라 제공되는 옵션이 다를 수 있습니다."
+      ],
+      [
+        "저장하거나 복사하기",
+        "편집한 이미지를 저장하거나 복사합니다. 공유하기 전에 민감한 정보가 가려졌는지 확인해 주세요."
+      ]
+    ],
+    "permission_title": "화면 기록 권한",
+    "permission_text": "시스템 설정 → 개인정보 보호 및 보안에서 Annotateshot의 화면 기록을 허용해 주세요. 권한을 변경한 뒤 앱을 종료하고 다시 실행하세요. 계속 캡처가 안 된다면 macOS와 앱 버전을 포함해 버그를 신고해 주세요.",
+    "report_title": "문제 재현에 도움이 되는 정보",
+    "report_items": [
+      "앱 버전과 빌드 번호",
+      "macOS 버전",
+      "문제가 발생하는 작업 순서",
+      "기대한 결과와 실제 결과",
+      "개인정보를 가린 스크린샷이나 영상"
+    ],
+    "privacy_intro": "정보에 맞는 문의 방법을 선택해 주세요.",
+    "privacy_sections": [
+      [
+        "공개 문의",
+        "GitHub 이슈, 댓글과 첨부 파일은 누구나 볼 수 있습니다. 인증 정보, 영수증, 개인 문서나 개인정보를 가리지 않은 스크린샷을 올리지 마세요."
+      ],
+      [
+        "비공개 문의",
+        "개인정보가 필요한 문의는 기존 지원 웹사이트를 이용해 주세요. App Store 환불은 Apple에 직접 요청할 수 있습니다."
+      ],
+      [
+        "앱 개인정보 처리방침",
+        "앱 개인정보 처리방침은 Annotateshot 웹사이트에 게시되어 있습니다. 아래 링크에서 현재 정책을 확인할 수 있습니다."
+      ],
+      [
+        "이 지원 사이트",
+        "이 페이지에는 분석 스크립트, 광고나 삽입된 추적 도구가 없습니다. 페이지와 이슈 서비스는 GitHub가 운영하며 해당 서비스에는 GitHub의 개인정보 정책이 적용됩니다."
+      ]
+    ],
+    "policy": "앱 개인정보 처리방침 보기",
+    "github_privacy": "GitHub 개인정보 정책",
+    "footer": "지원 문서와 사용자 피드백을 위한 공간입니다. 앱 소스 코드는 포함하지 않습니다.",
+    "readme_about": "Annotateshot의 공개 지원 공간입니다. 버그를 신고하거나 기능을 제안하고, 사용 방법을 물어보세요.",
+    "readme_heading": "문의하기",
+    "readme_docs": "안내 문서",
+    "readme_scope": "이 저장소에 관하여",
+    "readme_scope_text": "지원 문서와 사용자 피드백을 위한 저장소이며 앱 소스 코드는 포함하지 않습니다. 기능 제안은 구현이나 출시일을 보장하지 않습니다.",
+    "contributing": [
+      "새 이슈를 작성하기 전에 기존 이슈를 검색해 주세요.",
+      "하나의 이슈에는 하나의 문제나 제안을 적어 주세요.",
+      "재현 방법과 기대한 동작을 구체적으로 설명해 주세요.",
+      "첨부 파일의 개인정보를 가려 주세요.",
+      "서로 존중하는 표현을 사용해 주세요."
+    ],
+    "form_version": "앱 버전과 빌드 번호",
+    "form_macos": "macOS 버전",
+    "form_steps": "재현 방법",
+    "form_expected": "기대한 결과",
+    "form_actual": "실제 결과",
+    "form_extra": "추가 정보 (개인정보를 가린 스크린샷·영상·오류 메시지)",
+    "form_problem": "어떤 문제를 해결하고 싶으신가요?",
+    "form_suggestion": "제안하는 방법",
+    "form_examples": "참고 사례 또는 다른 방법",
+    "form_question": "질문",
+    "form_context": "추가 정보",
+    "form_notice": "이 이슈와 첨부 파일은 공개됩니다. 개인정보를 가려 주세요. 영수증이나 인증 정보를 올리지 마세요."
+  },
+  "ja": {
+    "name": "日本語",
+    "title": "Annotateshot サポート",
+    "tagline": "撮影して、書き込んで、相談する。",
+    "intro": "Mac版Annotateshotの使い方に関する質問、不具合報告、機能提案のための場所です。",
+    "home": "サポート",
+    "guide": "使い方",
+    "faq": "よくある質問",
+    "privacy": "プライバシー",
+    "store": "Annotateshotを入手",
+    "repo": "GitHubリポジトリ",
+    "issues": "既存のお問い合わせを見る",
+    "skip": "本文へ移動",
+    "language": "言語",
+    "help_title": "どのようなことでお困りですか？",
+    "bug": "不具合を報告",
+    "bug_desc": "発生した問題と再現手順を教えてください。",
+    "feature": "機能を提案",
+    "feature_desc": "もっと簡単にしたい作業を教えてください。",
+    "question": "使い方を質問",
+    "question_desc": "ツールや操作について質問できます。",
+    "public_title": "投稿する前に",
+    "public_text": "GitHubのIssue、コメント、添付ファイルは公開されます。氏名、メールアドレス、個人文書、支払い情報を隠してください。Issueの投稿にはGitHubアカウントが必要です。",
+    "private": "非公開のお問い合わせ",
+    "refund": "App Storeの返金を申請",
+    "private_text": "個人情報を含むお問い合わせにはサポートサイトをご利用ください。App Storeの返金はAppleに申請できます。",
+    "about_title": "スクリーンショットで、わかりやすく伝える。",
+    "about_text": "画面を撮影し、図形や文字を書き込んだり、大切な部分を強調したりして、保存・コピーできます。AnnotateshotにはmacOS 14以降が必要です。",
+    "faq_title": "よくある質問",
+    "faqs": [
+      [
+        "画面を撮影できません。",
+        "システム設定 → プライバシーとセキュリティでAnnotateshotの画面収録の許可を確認してください。変更後はアプリを終了して再起動してください。設定名はmacOSのバージョンによって異なります。"
+      ],
+      [
+        "不具合報告には何を書けばよいですか？",
+        "アプリのバージョンとビルド番号、macOSのバージョン、再現手順、期待した動作と実際の動作を書いてください。個人情報を隠した画像や短い動画も役立ちます。"
+      ],
+      [
+        "返金はどこで申請できますか？",
+        "App Storeの支払いと返金はAppleが扱います。下の返金リンクをご利用ください。領収書を公開Issueに投稿しないでください。"
+      ],
+      [
+        "機能を提案するとリリース日が決まりますか？",
+        "いいえ。提案は利用者のニーズを理解するために役立ちます。「planned」ラベルはリリース日を約束するものではありません。"
+      ]
+    ],
+    "guide_intro": "最初の撮影から、問題を伝える方法まで。",
+    "steps": [
+      [
+        "インストールして起動",
+        "Mac App StoreからAnnotateshotをインストールし、起動します。"
+      ],
+      [
+        "撮影するか画像を開く",
+        "macOSのメニューバーにあるAnnotateshotアイコンから画面を撮影するか、画像を開きます。"
+      ],
+      [
+        "注釈を追加",
+        "編集画面で図形、文字、ハイライト、モザイクなどのツールを選びます。利用できるオプションはアプリのバージョンによって異なります。"
+      ],
+      [
+        "保存またはコピー",
+        "編集した画像を保存またはコピーします。共有する前に、機密情報が隠されていることを確認してください。"
+      ]
+    ],
+    "permission_title": "画面収録の許可",
+    "permission_text": "システム設定 → プライバシーとセキュリティでAnnotateshotの画面収録を許可してください。変更後はアプリを終了して再起動してください。撮影できない場合は、macOSとアプリのバージョンを添えて不具合をご報告ください。",
+    "report_title": "問題の再現に役立つ情報",
+    "report_items": [
+      "アプリのバージョンとビルド番号",
+      "macOSのバージョン",
+      "問題が発生する操作手順",
+      "期待した結果と実際の結果",
+      "個人情報を隠した画像または動画"
+    ],
+    "privacy_intro": "情報に合ったお問い合わせ方法を選んでください。",
+    "privacy_sections": [
+      [
+        "公開のお問い合わせ",
+        "GitHubのIssue、コメント、添付ファイルは誰でも閲覧できます。認証情報、領収書、個人文書、個人情報を隠していない画像を投稿しないでください。"
+      ],
+      [
+        "非公開のお問い合わせ",
+        "個人情報を含むお問い合わせには、既存のサポートサイトをご利用ください。App Storeの返金はAppleに直接申請できます。"
+      ],
+      [
+        "アプリのプライバシーポリシー",
+        "アプリのプライバシーポリシーはAnnotateshotのウェブサイトに掲載されています。下のリンクから現在の方針をご確認ください。"
+      ],
+      [
+        "このサポートサイト",
+        "これらのページには分析スクリプト、広告、埋め込みの追跡ツールはありません。ページとIssueサービスはGitHubが運営し、これらのサービスにはGitHubのプライバシーポリシーが適用されます。"
+      ]
+    ],
+    "policy": "アプリのプライバシーポリシーを見る",
+    "github_privacy": "GitHubのプライバシーポリシー",
+    "footer": "サポート文書と利用者のフィードバックのための場所です。アプリのソースコードは含まれません。",
+    "readme_about": "Annotateshotの公開サポート窓口です。不具合の報告、機能の提案、使い方の質問を受け付けています。",
+    "readme_heading": "お問い合わせ",
+    "readme_docs": "ドキュメント",
+    "readme_scope": "このリポジトリについて",
+    "readme_scope_text": "このリポジトリにはサポート文書と利用者のフィードバックが含まれます。アプリのソースコードは含まれません。機能提案は実装やリリース日を保証しません。",
+    "contributing": [
+      "新しいIssueを作成する前に、既存のIssueを検索してください。",
+      "一つのIssueには一つの問題や提案を書いてください。",
+      "再現手順と期待する動作を具体的に説明してください。",
+      "添付ファイルの個人情報を隠してください。",
+      "お互いを尊重する表現を使ってください。"
+    ],
+    "form_version": "アプリのバージョンとビルド番号",
+    "form_macos": "macOSのバージョン",
+    "form_steps": "再現手順",
+    "form_expected": "期待した結果",
+    "form_actual": "実際の結果",
+    "form_extra": "追加情報（個人情報を隠した画像・動画・エラーメッセージ）",
+    "form_problem": "解決したい問題は何ですか？",
+    "form_suggestion": "提案する改善方法",
+    "form_examples": "参考例または代替方法",
+    "form_question": "質問",
+    "form_context": "追加情報",
+    "form_notice": "このIssueと添付ファイルは公開されます。個人情報を隠してください。領収書や認証情報を投稿しないでください。"
+  }
+}

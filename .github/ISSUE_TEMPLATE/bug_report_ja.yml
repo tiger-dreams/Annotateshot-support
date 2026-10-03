@@ -1,5 +1,5 @@
-name: "Report a bug · English"
-description: "Tell us what happened and how to reproduce it."
+name: "不具合を報告 · 日本語"
+description: "発生した問題と再現手順を教えてください。"
 labels:
   - "bug"
   - "needs-triage"
@@ -7,46 +7,46 @@ body:
   -
     type: "markdown"
     attributes:
-      value: "This issue and its attachments are public. Redact private information. Do not post receipts or credentials."
+      value: "このIssueと添付ファイルは公開されます。個人情報を隠してください。領収書や認証情報を投稿しないでください。"
   -
     type: "input"
     id: "app_version"
     attributes:
-      label: "App version and build number"
+      label: "アプリのバージョンとビルド番号"
     validations:
       required: true
   -
     type: "input"
     id: "macos_version"
     attributes:
-      label: "macOS version"
+      label: "macOSのバージョン"
     validations:
       required: true
   -
     type: "textarea"
     id: "steps"
     attributes:
-      label: "Steps to reproduce"
+      label: "再現手順"
     validations:
       required: true
   -
     type: "textarea"
     id: "expected"
     attributes:
-      label: "Expected result"
+      label: "期待した結果"
     validations:
       required: true
   -
     type: "textarea"
     id: "actual"
     attributes:
-      label: "Actual result"
+      label: "実際の結果"
     validations:
       required: true
   -
     type: "textarea"
     id: "details"
     attributes:
-      label: "Additional details (redacted screenshots, recordings, or error messages)"
+      label: "追加情報（個人情報を隠した画像・動画・エラーメッセージ）"
     validations:
       required: false

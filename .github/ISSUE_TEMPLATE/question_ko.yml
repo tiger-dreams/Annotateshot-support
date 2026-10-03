@@ -1,5 +1,5 @@
-name: "Ask a question · English"
-description: "Get help with a tool or workflow."
+name: "사용 질문 · 한국어"
+description: "도구나 사용 방법이 궁금할 때 물어보세요."
 labels:
   - "question"
   - "needs-triage"
@@ -7,25 +7,25 @@ body:
   -
     type: "markdown"
     attributes:
-      value: "This issue and its attachments are public. Redact private information. Do not post receipts or credentials."
+      value: "이 이슈와 첨부 파일은 공개됩니다. 개인정보를 가려 주세요. 영수증이나 인증 정보를 올리지 마세요."
   -
     type: "input"
     id: "app_version"
     attributes:
-      label: "App version and build number"
+      label: "앱 버전과 빌드 번호"
     validations:
       required: false
   -
     type: "textarea"
     id: "question"
     attributes:
-      label: "Your question"
+      label: "질문"
     validations:
       required: true
   -
     type: "textarea"
     id: "context"
     attributes:
-      label: "Additional context"
+      label: "추가 정보"
     validations:
       required: false

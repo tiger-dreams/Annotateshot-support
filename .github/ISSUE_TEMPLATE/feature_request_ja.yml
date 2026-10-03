@@ -1,0 +1,31 @@
+name: "機能を提案 · 日本語"
+description: "もっと簡単にしたい作業を教えてください。"
+labels:
+  - "enhancement"
+  - "needs-triage"
+body:
+  -
+    type: "markdown"
+    attributes:
+      value: "このIssueと添付ファイルは公開されます。個人情報を隠してください。領収書や認証情報を投稿しないでください。"
+  -
+    type: "textarea"
+    id: "problem"
+    attributes:
+      label: "解決したい問題は何ですか？"
+    validations:
+      required: true
+  -
+    type: "textarea"
+    id: "suggestion"
+    attributes:
+      label: "提案する改善方法"
+    validations:
+      required: true
+  -
+    type: "textarea"
+    id: "examples"
+    attributes:
+      label: "参考例または代替方法"
+    validations:
+      required: false

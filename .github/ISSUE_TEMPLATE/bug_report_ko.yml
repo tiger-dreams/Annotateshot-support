@@ -1,5 +1,5 @@
-name: "Report a bug · English"
-description: "Tell us what happened and how to reproduce it."
+name: "버그 신고 · 한국어"
+description: "발생한 문제와 재현 방법을 알려 주세요."
 labels:
   - "bug"
   - "needs-triage"
@@ -7,46 +7,46 @@ body:
   -
     type: "markdown"
     attributes:
-      value: "This issue and its attachments are public. Redact private information. Do not post receipts or credentials."
+      value: "이 이슈와 첨부 파일은 공개됩니다. 개인정보를 가려 주세요. 영수증이나 인증 정보를 올리지 마세요."
   -
     type: "input"
     id: "app_version"
     attributes:
-      label: "App version and build number"
+      label: "앱 버전과 빌드 번호"
     validations:
       required: true
   -
     type: "input"
     id: "macos_version"
     attributes:
-      label: "macOS version"
+      label: "macOS 버전"
     validations:
       required: true
   -
     type: "textarea"
     id: "steps"
     attributes:
-      label: "Steps to reproduce"
+      label: "재현 방법"
     validations:
       required: true
   -
     type: "textarea"
     id: "expected"
     attributes:
-      label: "Expected result"
+      label: "기대한 결과"
     validations:
       required: true
   -
     type: "textarea"
     id: "actual"
     attributes:
-      label: "Actual result"
+      label: "실제 결과"
     validations:
       required: true
   -
     type: "textarea"
     id: "details"
     attributes:
-      label: "Additional details (redacted screenshots, recordings, or error messages)"
+      label: "추가 정보 (개인정보를 가린 스크린샷·영상·오류 메시지)"
     validations:
       required: false

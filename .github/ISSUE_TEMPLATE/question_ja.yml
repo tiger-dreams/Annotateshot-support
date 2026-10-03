@@ -1,0 +1,31 @@
+name: "使い方を質問 · 日本語"
+description: "ツールや操作について質問できます。"
+labels:
+  - "question"
+  - "needs-triage"
+body:
+  -
+    type: "markdown"
+    attributes:
+      value: "このIssueと添付ファイルは公開されます。個人情報を隠してください。領収書や認証情報を投稿しないでください。"
+  -
+    type: "input"
+    id: "app_version"
+    attributes:
+      label: "アプリのバージョンとビルド番号"
+    validations:
+      required: false
+  -
+    type: "textarea"
+    id: "question"
+    attributes:
+      label: "質問"
+    validations:
+      required: true
+  -
+    type: "textarea"
+    id: "context"
+    attributes:
+      label: "追加情報"
+    validations:
+      required: false
