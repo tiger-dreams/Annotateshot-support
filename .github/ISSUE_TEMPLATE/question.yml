@@ -1,0 +1,25 @@
+name: 사용 질문 · Question
+description: 사용 방법이나 동작이 궁금한가요? Ask about using Annotateshot.
+labels: [question, needs-triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        이 질문과 첨부 파일은 공개됩니다. 개인정보나 결제 영수증은 올리지 마세요.
+        This question and its attachments are public. Do not post private information or receipts.
+  - type: input
+    id: app_version
+    attributes:
+      label: 앱 버전 · App version
+  - type: textarea
+    id: question
+    attributes:
+      label: 질문 · Your question
+      description: 하려는 작업과 궁금한 부분을 설명해 주세요. Describe what you are trying to do and what you need help with.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: 추가 정보 · Additional context
+      description: macOS 버전이나 개인정보를 가린 이미지가 도움이 될 수 있습니다. Your macOS version or a redacted screenshot may help.
